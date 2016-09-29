@@ -82,3 +82,12 @@ dependencies {
     compile 'pl.allegro.tech:opel:1.0.1'
 }
 ```
+
+## Development
+
+### Run Benchmarks
+
+```
+$ gradle jmh
+```
+
